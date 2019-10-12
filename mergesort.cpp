@@ -1,6 +1,5 @@
 //merge sort
 #include <cstdio>
-#include <math.h>
 int swap(int &a, int &b){
 	int t=a;
 	a=b;
